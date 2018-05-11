@@ -25,10 +25,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/courtdp2/DevConnector.git"
+    "url": "git+https://github.com/courtdp2/DevConnector.git"
   },
-  "bugs": {
+  "bugjjs": {
     "url": "https://github.com/courtdp2/DevConnector/issues"
   },
-  "homepage": "https://github.com/courtdp2/DevConnector#readme"
+  "homepage": "https://github.com/courtdp2/DevConnector#readme",
+  "bugs": {
+    "url": "https://github.com/courtdp2/DevConnector/issues"
+  }
 }
