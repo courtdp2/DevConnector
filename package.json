@@ -27,9 +27,6 @@
     "type": "git",
     "url": "git+https://github.com/courtdp2/DevConnector.git"
   },
-  "bugjjs": {
-    "url": "https://github.com/courtdp2/DevConnector/issues"
-  },
   "homepage": "https://github.com/courtdp2/DevConnector#readme",
   "bugs": {
     "url": "https://github.com/courtdp2/DevConnector/issues"
