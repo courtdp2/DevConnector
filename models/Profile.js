@@ -1,4 +1,4 @@
-const moongoose = require("mongooose");
+const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
 
 // Create Schema
@@ -21,7 +21,7 @@ const ProfileSchema = new Schema({
   location: {
     type: String
   },
-  string: {
+  status: {
     type: String,
     required: true
   },
